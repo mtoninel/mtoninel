@@ -1,16 +1,11 @@
-### Hi there 👋
-
-<!--
-**mtoninel/mtoninel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+<samp>
+<span>Hi there!</span>
+<br>
+<br>
+<span>I am a computational biology PhD student working in the Molecular Oncology and Immunology Lab at <a href=https://www.ifom.eu/en>IFOM</a>.</span>
+<br>
+<span>I don't use GitHub at work so these are just some personal projects related to my interests.</span>
+<br>
+</samp>
+</p>
